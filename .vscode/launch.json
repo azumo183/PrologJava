@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "request": "launch",
+            "name": "Launch Java Program",
+            "mainClass": "App",
+            "vmArgs": "-Djava.library.path='C:\\Program Files\\swipl\\bin'"
+        }
+    ]
+}
