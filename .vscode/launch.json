@@ -3,6 +3,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FactorialTuProlog",
+            "request": "launch",
+            "mainClass": "FactorialTuProlog",
+            "projectName": "PrologJava_83e4e5a3"
+        },
+        {
+            "type": "java",
+            "name": "FactorialJPL",
+            "request": "launch",
+            "mainClass": "FactorialJPL",
+            "projectName": "PrologJava_83e4e5a3"
+        },
+        {
+            "type": "java",
+            "name": "EjemploTuProlog",
+            "request": "launch",
+            "mainClass": "EjemploTuProlog",
+            "projectName": "PrologJava_83e4e5a3"
+        },
+        {
+            "type": "java",
             "request": "launch",
             "name": "Launch Java Program",
             "mainClass": "App",
